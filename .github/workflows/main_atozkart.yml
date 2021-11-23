@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'atozkart'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FCD0438919FD41DD9F05533E41388F5E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B931B27A979D43E2BCD7FF3726C9A86C }}
           package: .
