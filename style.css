@@ -2,6 +2,9 @@ body {
 font-family: copperplate;
 margin: 0;
 }
+header {
+   height: 160px;
+   background-image: ("https://github.com/A255abhay/AtoZkart/blob/main/pexels-rahul-695644%20(2).jpg");}
 h1 {
   text-intent: -9999px;
   width: 940px;
